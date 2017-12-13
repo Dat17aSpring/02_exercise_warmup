@@ -7,3 +7,7 @@ Create an index.html file that looks like this:
 
 
 _help can be found here: https://www.w3schools.com/html/html_basic.asp_
+
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
